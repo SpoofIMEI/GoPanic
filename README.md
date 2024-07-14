@@ -6,12 +6,13 @@ Requirements:
 - Windows
 - Golang compiler in PATH
 
+How to install:
 1. `git clone https://github.com/R00tendo/GoPanic` (or download as zip)
 2. run install.bat
 3. follow instructions
 
 # Usage
-1. Configure what the panic hotkey does.
+### 1. Configure what the panic hotkey does.
 Open panic.json and tell GoPanic what should happen when you press the hotkey.
 
 Example1:
@@ -39,5 +40,5 @@ Presets:
 - kill (arg: process name)
 - shutdown
 
-2. Run gopanic.exe
-3. Test if it works 
+### 2. Run gopanic.exe
+### 3. Test if it works 
