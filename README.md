@@ -1,5 +1,5 @@
 # GoPanic: Panic hotkeys for Windows
-If you have sensitive stuff on your computer, you probably already have made advances to secure that sensitive data from prying eyes, but if your computer gets yanked from your lap while you're logged in, almost all other security mechanisms like full disk encryption become void. This is what GoPanic aims to solve. GoPanic allows you to set up hotkey that when pressed, executes your specified action, for example, shutting down the computer or secure deleting files.
+If you have sensitive stuff on your computer, you probably already have made advances to secure that sensitive data from prying eyes, but if your computer gets yanked from your lap while you're logged in, almost all other security mechanisms, like full disk encryption, become void. This is what GoPanic aims to solve. GoPanic allows you to set up a hotkey that, when pressed, executes your specified action, for example, shutting down the computer or securely deleting files.
 
 # Installation
 Requirements:
