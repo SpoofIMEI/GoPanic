@@ -7,7 +7,7 @@ Requirements:
 - Golang compiler in PATH
 
 How to install:
-1. `git clone https://github.com/R00tendo/GoPanic` (or download as zip)
+1. `git clone https://github.com/SpoofIMEI/GoPanic` (or download as zip)
 2. run install.bat
 3. follow instructions
 
